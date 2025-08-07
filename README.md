@@ -129,10 +129,10 @@ This project involves building and deploying a machine learning-based **credit r
 
 | Metric           | Value         |
 | ---------------- | ------------- |
-| AUC              | \~0.98        |
-| KS Statistic     | \~85          |
-| Gini Coefficient | >0.96         |
-| Best Model       | Logistic Reg. |
+| AUC              | 0.98        |
+| KS Statistic     | 85          |
+| Gini Coefficient | 0.96         |
+| Best Model       | Logistic Regression |                    
 | Frontend         | Streamlit App |
 
 
